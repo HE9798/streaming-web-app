@@ -1,0 +1,25 @@
+.link {
+    text-decoration: none;
+    color: #fff;
+}
+
+.link:hover {
+    color: #f4c10f
+}
+
+.link:focus {
+    color: #f4c10f
+}
+
+.btn:focus {
+    background-color: #0dcaf0;
+    color: #151c26;
+}
+
+.arrow {
+    color: #f4c10f
+}
+
+.arrow:hover {
+    color: #f4c20f9a
+}
